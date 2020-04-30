@@ -3,3 +3,13 @@
     margin:0;
     box-sizing: border-box;
 }
+
+body{
+    color:#454545;
+}
+
+/****************HEADER*****************/
+header{
+    background: #000;
+    color:#eee;
+}
