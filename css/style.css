@@ -13,3 +13,8 @@ header{
     background: #000;
     color:#eee;
 }
+
+nav a{
+    color:crimson;
+    text-decoration:none;
+}
