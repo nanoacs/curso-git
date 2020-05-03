@@ -28,3 +28,25 @@ a,a:hover{
     grid-template-columns: repeat(5,1fr);
 }
 
+/****************MAIN*****************/
+.main h1{
+    margin:2rem 0 1rem 0;
+}
+
+.info{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 1rem;
+    color:#454545;
+}
+
+.panel-heading{
+    background: #f7f7f9;
+    padding: .5rem;
+    border-radius: 4px;
+}
+
+.panel-heading h3{
+    font-size: 1rem;
+    font-weight: bold;
+}
