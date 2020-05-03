@@ -17,5 +17,15 @@ header{
 a,a:hover{
     color:#eee;
     text-decoration: none;
+    display: inline-block;
 }
+
+.menu{
+    text-align: center;
+    font-size: .9rem;
+    width: 50%;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+}
+
 
